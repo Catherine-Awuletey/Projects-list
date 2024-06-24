@@ -1,0 +1,55 @@
+body{
+  background: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.person {
+  background: hsla(270,100%,30%,0.5);
+  border: 1px solid black;
+  width: 17rem;
+  padding: 1rem;
+  margin: 2rem auto;
+  transition: box-shadow 0.3s ease;
+  border-radius: 0.3rem;
+  text-align: center;
+  text-decoration: none;
+}
+
+.person img {
+  border-radius: 50%;
+  border: 0.1rem solid hsla(300,100%,75%,1);
+  Margin: 5px;
+}
+
+.person h3{
+  text-transform: capitalize;
+  margin: 3px;
+  color: white;
+}
+
+
+.person h5 {
+  font-size: 12px;
+  margin: 1rem;
+  color: hsla(300,100%,75%,1);
+}
+
+.person button{
+padding: 2px 8px;
+margin:1px;
+border-radius: 10px;
+border: 1px solid pink
+}
+
+.person:hover {
+  box-shadow: 0px 4px 8px hsla(300,100%,75%,1);
+}
+
+ .person a{
+  text-decoration: none;
+ }
