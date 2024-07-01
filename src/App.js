@@ -13,6 +13,7 @@ const PersonList = () => {
         <a
           href="https://github.com/Catherine-Awuletey/My-Favorite-Things"
           target="_blank"
+          rel="noreferrer"
         >
           Project
         </a>
@@ -25,7 +26,7 @@ const PersonList = () => {
       languages:
         "A student web from Figma Community designed with HTML 5, CSS 3",
       Project: (
-        <a href="https://students-web.netlify.app/" target="_blank">
+        <a href="https://students-web.netlify.app/" target="_blank" rel="noreferrer">
           Project
         </a>
       ),
@@ -36,7 +37,7 @@ const PersonList = () => {
       title: "Student-web",
       languages: "A student web designed with ReactJs, Tailwind CSS",
       Project: (
-        <a href="https://students-web.netlify.app/" target="_blank">
+        <a href="https://students-web.netlify.app/" target="_blank" rel="noreferrer">
           Project
         </a>
       ),
@@ -48,7 +49,7 @@ const PersonList = () => {
       languages:
         "A real-estate UI from Figma Community designed with ReactJs, Tailwind CSS",
       Project: (
-        <a href="https://my-dream-house.netlify.app/" target="_blank">
+        <a href="https://my-dream-house.netlify.app/" target="_blank" rel="noreferrer">
           Project
         </a>
       ),
