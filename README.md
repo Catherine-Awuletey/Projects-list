@@ -1,6 +1,6 @@
 <h1>Projects-List</h1>
 <p>This is a list of projects completed so far, with links to host them.</p>
-<p>The first project is linjed to a GitHub repository for thr source code while the rest are linked to their Netlify pages.</p>
+<p>The first project is linked to a GitHub repository for the source code while the rest are linked to their Netlify pages.<br> https://myprojectslist.netlify.app/</p>
 <h1>Concepts Learned</h1>
 <ul>
   <li>More on React Props</li>
